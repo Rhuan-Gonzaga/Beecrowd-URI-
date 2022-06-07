@@ -7,7 +7,6 @@ Não há nenhuma entrada neste problema.
 
 Saída
 Imprima a sequencia conforme exemplo abaixo
-
 '''
 count = 0
 i = 1
